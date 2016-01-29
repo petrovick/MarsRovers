@@ -1,8 +1,5 @@
 package Mars.Rovers;
 
-import org.junit.experimental.theories.suppliers.TestedOn;
-import org.junit.runner.notification.Failure;
-
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
